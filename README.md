@@ -33,7 +33,7 @@ Foreign key relationships ensure data consistency and establish connections betw
 Developed to demonstrate practical database design and management concepts through a Windows-based logistics application. The project focuses on relational database architecture, entity relationships, data integrity, and the management of real-world transportation operations.
 
 <p align="center">
-  <img src="Logistics & Transportation Management System\Lojistik Otomasyonu VS\Veri Tabanı Rapor\bitenler\ERD.png" width="80%">
+  <img src="Lojistik Otomasyonu VS\Veri Tabanı Rapor\bitenler\ERD.png" width="80%">
 </p>
 
 
