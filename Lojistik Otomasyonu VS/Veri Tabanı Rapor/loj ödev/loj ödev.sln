@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loj ödev", "loj ödev\loj ödev.csproj", "{25814508-9211-41F9-B2DF-B26CC56C9046}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "lojistik", "lojistik\lojistik.vdproj", "{A7F24652-0D35-45E0-AD0E-ACD1C58599BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25814508-9211-41F9-B2DF-B26CC56C9046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25814508-9211-41F9-B2DF-B26CC56C9046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25814508-9211-41F9-B2DF-B26CC56C9046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25814508-9211-41F9-B2DF-B26CC56C9046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F24652-0D35-45E0-AD0E-ACD1C58599BE}.Debug|Any CPU.ActiveCfg = Debug
+		{A7F24652-0D35-45E0-AD0E-ACD1C58599BE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0424B952-F085-4D5F-9C89-6AF20C946323}
+	EndGlobalSection
+EndGlobal

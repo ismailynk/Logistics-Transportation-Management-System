@@ -1,0 +1,19 @@
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\bin\Debug\loj ödev.exe.config
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\bin\Debug\loj ödev.exe
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\bin\Debug\loj ödev.pdb
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj ödev.csprojAssemblyReference.cache
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.AracForm.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.Form1.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.Properties.Resources.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj ödev.csproj.GenerateResource.cache
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj ödev.csproj.CoreCompileInputs.cache
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj ödev.exe
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj ödev.pdb
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.PersonelForm.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.SeferForm.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.UrunForm.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.musterilerform.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.maasoranı.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.personelsınıf.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.seferbilgi.resources
+C:\Users\ISMAIL\source\repos\loj ödev\loj ödev\obj\Debug\loj_ödev.bilgigöster.resources

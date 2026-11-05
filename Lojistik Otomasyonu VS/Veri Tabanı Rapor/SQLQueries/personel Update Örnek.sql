@@ -1,0 +1,1 @@
+update personell set ad_personel='',kmlkno_personel='',personel_bilgi='' where id_personel=''
